@@ -2,5 +2,8 @@ This is some text
 Adding this change on the main branch
 Adding this change on the conflict branch
 
+fixing an issue on the main branch
+
+Adding even more sweet stuff to dev
 Testing Dev Branch
 Adding even more sweet new stuff to Dev branch
